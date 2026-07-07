@@ -1,8 +1,4 @@
 First line
 Second line
 Third line
-<<<<<<< HEAD
-fourth line
-=======
 FOURTH Line
->>>>>>> 885c1f1 (Add fourth line)
